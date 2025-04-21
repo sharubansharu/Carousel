@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let images = [ "1","2","3","4","5"]
+    let images = [ "1","2","3","4","5","6"]
     var body: some View {
         ScrollView(.horizontal){
             LazyHStack{
